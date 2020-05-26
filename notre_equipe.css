@@ -1,0 +1,32 @@
+.equipier {
+	font-family: 'Alata', sans-serif;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.container {
+	text-align: center;
+	margin-top: 80px;
+}
+.text-justify {
+	text-align: justify;
+}
+
+.img-referent {
+	display: inline-block;
+    max-width: 100%;
+}
+
+.paragraph {
+	max-width: 850px;
+}
+
+.equipier > img {
+	width: 200px;
+    height: 200px;
+}
+
+h2 {
+	color: #246166;
+}

@@ -1,0 +1,16 @@
+.img-height {
+	height: 30vh;
+}
+
+.img-fit {
+	object-fit: cover;
+}
+
+.card-text {
+	text-align: center;
+	font-family: 'Alata', sans-serif;
+}
+
+.card-body {
+	background: #DE9796;
+}
